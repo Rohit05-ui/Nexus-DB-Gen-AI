@@ -13,9 +13,9 @@ Methodology : The project uses a Streamlit-based web interface where users input
 - Process: Query → SQL → Database → Result → Display.
 
 Result : Nexus Gen AI successfully translated natural language queries into accurate SQL statements with ~99% accuracy. The system responded within 2–4 seconds on average and worked efficiently across both SQLite and MySQL databases. Users could retrieve, filter, and analyze data without writing any SQL, making database access faster and more user-friendly.
-Accuracy: ~99% (as per testing)
-Response Time: 2–4 seconds/query.
-Works with simple & complex SQL queries.
+- Accuracy: ~99% (as per testing)
+- Response Time: 2–4 seconds/query.
+- Works with simple & complex SQL queries.
 
 
 
